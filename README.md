@@ -18,6 +18,8 @@ https://ollama.com/
 
 [GitHub page](https://github.com/open-webui/open-webui)
 
+[Google Programmable Search Engine](https://programmablesearchengine.google.com/)
+
 ### Stable diffusion
 
 [Github](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
